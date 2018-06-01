@@ -29,17 +29,18 @@
 ![](https://sun1-17.userapi.com/c840735/v840735381/88f87/htOk7epApRo.jpg)
 
 ### 3:
-*SketchEngine:*
-
-![](https://sun1-7.userapi.com/c840735/v840735381/88f90/GGt1SqFRS-8.jpg)
-![](https://sun1-20.userapi.com/c840735/v840735381/88f98/CAwYF-WVw4Q.jpg)
-
-*Google Ngrams:*
 
 + Оба сервиса показывают, что частотность слова "archaeology" увеличивается. 
 + В отличие от графика SketchEngine, небольшое снижение частотности употребления этого слово Google Ngrams не показывает. 
 + Как показано на графике Google Ngrams, данное слово резко набрало свою популярность примерно в 1945 году. 
 
 Возможным объяснением причины небольших расхождений в данных на этих двух сервисах может служить то, что данные об употреблении собирались в разное время. Также Google Ngram и SketchEngine освещают различные периоды времени.
+
+*SketchEngine:*
+
+![](https://sun1-7.userapi.com/c840735/v840735381/88f90/GGt1SqFRS-8.jpg)
+![](https://sun1-20.userapi.com/c840735/v840735381/88f98/CAwYF-WVw4Q.jpg)
+
+*Google Ngrams:*
 
 ![](https://sun1-13.userapi.com/c840735/v840735381/88fa1/RdS4U6WoQ5M.jpg)
